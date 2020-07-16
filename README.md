@@ -1,4 +1,4 @@
-# Investigate-TMDB-Movies-Dataset
+# Investigate TMDB Movies Dataset
 
 ## Introduction:
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year.
